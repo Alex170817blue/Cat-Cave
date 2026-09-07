@@ -178,7 +178,7 @@ npm run lint
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home
 
@@ -192,12 +192,6 @@ npm run lint
 
 ![Nap Rooms](./public/nap_roomMobile.png)
 
-### Worship Room
-
-<!-- Add Worship Room screenshot here -->
-
-![Worship Room](./public/worship-room.png)
-
 ### Catizens
 
 <!-- Add Catizens screenshot here -->
@@ -208,7 +202,7 @@ npm run lint
 
 <!-- Add Rave Room screenshot here -->
 
-![Rave Room](./screenshots/rave_Desktop.png)
+![Rave Room](./public/rave_Desktop.png)
 
 ---
 
