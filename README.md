@@ -53,7 +53,7 @@ The room is designed to encourage playful exploration rather than simply present
 
 ---
 
-### 🙏 Worship Room
+### Worship Room
 
 A glimpse into the spiritual side of cat society.
 
